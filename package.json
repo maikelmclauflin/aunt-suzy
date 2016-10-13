@@ -1,0 +1,23 @@
+{
+  "name": "aunt-suzy",
+  "version": "1.0.0",
+  "description": "path utilities that make working with paths much easier and much less of a headache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmclau14/aunt-suzy.git"
+  },
+  "keywords": [
+    "path",
+    "utility"
+  ],
+  "author": "Michael McLaughlin <michael@gospecless.com> (https://gospecless.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmclau14/aunt-suzy/issues"
+  },
+  "homepage": "https://github.com/mmclau14/aunt-suzy#readme"
+}
