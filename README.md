@@ -1,0 +1,1 @@
+path utilities that make working with paths much easier and much less of a headache
